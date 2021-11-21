@@ -14,3 +14,26 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.product-create__input {
+  padding: 10px;
+  font-size: 1.1rem;
+  margin: 0px 10px;
+}
+
+.product-create {
+  margin-bottom: 10px;
+}
+
+.product-create__description {
+  padding: 10px;
+  height: 100px;
+  width: 70%;
+  margin: 0px 10px;
+}
+
+.product-create__image {
+  display: block;
+  width: 100%;
+  margin: 10px;
+}
